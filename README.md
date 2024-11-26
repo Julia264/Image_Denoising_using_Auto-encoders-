@@ -61,9 +61,8 @@ The autoencoder consists of:
 ## Results  
 ### Sample Outputs:  
 
-| **Input (Noisy)** | **Ground Truth** | **Predicted (Denoised)** |  
-|--------------------|------------------|--------------------------|  
-| ![Noisy Image](path/to/noisy.png) | ![Clean Image](path/to/clean.png) | ![Denoised Image](path/to/predicted.png) |  
+ 
+| ![image](image.png)  |  
 
 ### Metrics:  
 - PSNR: **X dB**  
@@ -102,7 +101,7 @@ The autoencoder consists of:
 - Matplotlib  
 - OpenCV  
 
-Install all required packages using `requirements.txt`.  
+
 
 ---
 
